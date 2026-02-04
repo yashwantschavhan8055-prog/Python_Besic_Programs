@@ -1,0 +1,6 @@
+print("Enter First Value")
+First_value=int(input())
+print("Enter Second Value")
+Second_value=int(input())
+print("This is Sum Of Numbers")
+print(First_value+Second_value)
