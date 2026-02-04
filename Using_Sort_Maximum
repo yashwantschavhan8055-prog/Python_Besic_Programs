@@ -1,0 +1,6 @@
+a = 7
+b = 3
+c = 8
+num = [a,b,c]
+num.sort()
+print(num[-1])
